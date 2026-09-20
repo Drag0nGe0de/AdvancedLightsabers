@@ -1,0 +1,138 @@
+{
+  "lightsaber.on": {
+    "sounds": [
+      "lightsabers:item/lightsaber/on"
+    ]
+  },
+  "lightsaber.off": {
+    "sounds": [
+      "lightsabers:item/lightsaber/off"
+    ]
+  },
+  "lightsaber.hit": {
+    "sounds": [
+      "lightsabers:item/lightsaber/hit1",
+      "lightsabers:item/lightsaber/hit2",
+      "lightsabers:item/lightsaber/hit3",
+      "lightsabers:item/lightsaber/hit4",
+      "lightsabers:item/lightsaber/hit5",
+      "lightsabers:item/lightsaber/hit6",
+      "lightsabers:item/lightsaber/hit7"
+    ]
+  },
+  "lightsaber.swing": {
+    "sounds": [
+      "lightsabers:item/lightsaber/swing1",
+      "lightsabers:item/lightsaber/swing2",
+      "lightsabers:item/lightsaber/swing3",
+      "lightsabers:item/lightsaber/swing4"
+    ]
+  },
+  "force.cast": {
+    "sounds": [
+      "lightsabers:force/cast"
+    ]
+  },
+  "force.heal": {
+    "sounds": [
+      "lightsabers:force/heal"
+    ]
+  },
+  "force.lightning": {
+    "sounds": [
+      "lightsabers:force/lightning1",
+      "lightsabers:force/lightning2",
+      "lightsabers:force/lightning3",
+      "lightsabers:force/lightning4",
+      "lightsabers:force/lightning5"
+    ]
+  },
+  "force.dark": {
+    "sounds": [
+      "lightsabers:force/cast_dark"
+    ]
+  },
+  "force.fail": {
+    "sounds": [
+      "lightsabers:force/cast_fail"
+    ]
+  },
+  "block.holocron.invest": {
+    "sounds": [
+      "lightsabers:block/holocron/invest"
+    ]
+  },
+  "block.holocron.unlock": {
+    "sounds": [
+      "lightsabers:block/holocron/unlock"
+    ]
+  },
+  "block.sarcophagus.open": {
+    "sounds": [
+      "lightsabers:block/sith_sarcophagus/open"
+    ]
+  },
+  "mob.sith_ghost.idle": {
+    "sounds": [
+      "lightsabers:mob/sith_ghost/idle1",
+      "lightsabers:mob/sith_ghost/idle2",
+      "lightsabers:mob/sith_ghost/idle3"
+    ]
+  },
+  "mob.sith_ghost.death": {
+    "sounds": [
+      "lightsabers:mob/sith_ghost/death"
+    ]
+  },
+  "ambient.fortify": {
+    "sounds": [
+      "lightsabers:ambient/force/fortify"
+    ]
+  },
+  "block.sarcophagus.close": {
+    "sounds": [
+      {
+        "name": "lightsabers:block/sith_sarcophagus/open",
+        "pitch": 0.8
+      }
+    ]
+  },
+  "mob.lightsaber.on": {
+    "sounds": [
+      "lightsabers:item/lightsaber/on"
+    ]
+  },
+  "mob.lightsaber.off": {
+    "sounds": [
+      "lightsabers:item/lightsaber/off"
+    ]
+  },
+  "mob.lightsaber.swing": {
+    "sounds": [
+      "lightsabers:item/lightsaber/swing1",
+      "lightsabers:item/lightsaber/swing2",
+      "lightsabers:item/lightsaber/swing3",
+      "lightsabers:item/lightsaber/swing4"
+    ]
+  },
+  "ambient.stealth": {
+    "sounds": [
+      "lightsabers:ambient/force/stealth1",
+      "lightsabers:ambient/force/stealth2",
+      "lightsabers:ambient/force/stealth3"
+    ]
+  },
+  "force.stealth.on": {
+    "sounds": [
+      "lightsabers:force/stealth"
+    ]
+  },
+  "force.stealth.off": {
+    "sounds": [
+      {
+        "name": "lightsabers:force/stealth",
+        "pitch": 1.1
+      }
+    ]
+  }
+}

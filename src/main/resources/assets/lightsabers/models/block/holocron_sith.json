@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "north": "lightsabers:block/sith_holocron_side",
+    "east": "lightsabers:block/sith_holocron_side",
+    "south": "lightsabers:block/sith_holocron_side",
+    "west": "lightsabers:block/sith_holocron_side",
+    "up": "lightsabers:block/sith_holocron_side",
+    "down": "lightsabers:block/sith_holocron_bottom",
+    "particle": "lightsabers:block/sith_holocron_side"
+  }
+}

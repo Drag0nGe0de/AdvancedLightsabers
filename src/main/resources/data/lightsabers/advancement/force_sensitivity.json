@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "id": "lightsabers:kyber_crystal"
+    },
+    "title": {
+      "translate": "advancement.lightsabers.sensitivity.title"
+    },
+    "description": {
+      "translate": "advancement.lightsabers.sensitivity.desc"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "met": {
+      "trigger": "lightsabers:game_event",
+      "conditions": {
+        "event": "force_sensitivity"
+      }
+    }
+  },
+  "parent": "lightsabers:ignite"
+}

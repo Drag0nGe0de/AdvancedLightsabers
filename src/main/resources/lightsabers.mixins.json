@@ -1,0 +1,23 @@
+{
+    "required": true,
+    "package": "com.drag0nge0de.lightsabers.mixin",
+    "compatibilityLevel": "JAVA_21",
+    "mixins": [
+        "ItemEntityMixin",
+        "ItemStackMixin",
+        "LivingEntityMixin",
+        "RandomSpreadStructurePlacementMixin",
+        "ServerPlayerEntityMixin",
+        "StructurePlacementAccessor"
+    ],
+    "client": [
+        "client.BipedEntityModelMixin",
+        "client.InGameHudMixin",
+        "client.ItemRendererMixin",
+        "client.MinecraftClientMixin",
+        "client.ScreenMixin"
+    ],
+    "injectors": {
+        "defaultRequire": 1
+    }
+}

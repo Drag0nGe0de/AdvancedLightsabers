@@ -1,0 +1,72 @@
+{
+  "parent": "minecraft:block/block",
+  "textures": {
+    "pole": "lightsabers:block/lightsaber_stand",
+    "base": "lightsabers:block/lightsaber_stand_base",
+    "base_top": "lightsabers:block/lightsaber_stand_base",
+    "particle": "lightsabers:block/lightsaber_stand_base"
+  },
+  "elements": [
+    {
+      "from": [
+        4,
+        15,
+        4
+      ],
+      "to": [
+        12,
+        16,
+        12
+      ],
+      "faces": {
+        "north": {
+          "texture": "#base"
+        },
+        "south": {
+          "texture": "#base"
+        },
+        "east": {
+          "texture": "#base"
+        },
+        "west": {
+          "texture": "#base"
+        },
+        "up": {
+          "texture": "#base"
+        },
+        "down": {
+          "texture": "#base_top"
+        }
+      }
+    },
+    {
+      "from": [
+        7,
+        3,
+        7
+      ],
+      "to": [
+        9,
+        15,
+        9
+      ],
+      "faces": {
+        "north": {
+          "texture": "#pole"
+        },
+        "south": {
+          "texture": "#pole"
+        },
+        "east": {
+          "texture": "#pole"
+        },
+        "west": {
+          "texture": "#pole"
+        },
+        "down": {
+          "texture": "#pole"
+        }
+      }
+    }
+  ]
+}

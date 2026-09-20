@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "B",
+    "B"
+  ],
+  "key": {
+    "B": {
+      "item": "lightsabers:light_forcestone"
+    }
+  },
+  "result": {
+    "id": "lightsabers:light_forcestone_pillar",
+    "count": 2
+  }
+}

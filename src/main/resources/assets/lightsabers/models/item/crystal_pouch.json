@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "lightsabers:item/crystal_pouch",
+    "layer1": "lightsabers:item/crystal_pouch_overlay"
+  }
+}

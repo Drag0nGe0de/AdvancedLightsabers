@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "lightsabers:jedi_temple",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 712456831,
+    "spacing": 64,
+    "separation": 24
+  }
+}

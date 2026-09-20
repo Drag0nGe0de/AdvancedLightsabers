@@ -1,0 +1,12 @@
+{
+  "variants": {
+    "facing=north,front=false": { "model": "lightsabers:block/empty" },
+    "facing=south,front=false": { "model": "lightsabers:block/empty" },
+    "facing=west,front=false": { "model": "lightsabers:block/empty" },
+    "facing=east,front=false": { "model": "lightsabers:block/empty" },
+    "facing=north,front=true": { "model": "lightsabers:block/empty" },
+    "facing=south,front=true": { "model": "lightsabers:block/empty" },
+    "facing=west,front=true": { "model": "lightsabers:block/empty" },
+    "facing=east,front=true": { "model": "lightsabers:block/empty" }
+  }
+}

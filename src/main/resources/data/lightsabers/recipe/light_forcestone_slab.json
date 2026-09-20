@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "PPP"
+  ],
+  "key": {
+    "P": {
+      "item": "lightsabers:light_forcestone"
+    }
+  },
+  "result": {
+    "id": "lightsabers:light_forcestone_slab",
+    "count": 6
+  }
+}

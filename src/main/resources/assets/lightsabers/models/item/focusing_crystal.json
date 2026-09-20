@@ -1,0 +1,38 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "lightsabers:item/focusing_crystal"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 0
+      },
+      "model": "lightsabers:item/focusing_crystal_compressed"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1
+      },
+      "model": "lightsabers:item/focusing_crystal_cracked"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2
+      },
+      "model": "lightsabers:item/focusing_crystal_inverting"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 3
+      },
+      "model": "lightsabers:item/focusing_crystal_fine_cut"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 4
+      },
+      "model": "lightsabers:item/focusing_crystal_prismatic"
+    }
+  ]
+}

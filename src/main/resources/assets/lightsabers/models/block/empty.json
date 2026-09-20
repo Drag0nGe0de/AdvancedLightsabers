@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/block",
+  "textures": {
+    "particle": "lightsabers:block/light_forcestone"
+  }
+}

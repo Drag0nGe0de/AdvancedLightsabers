@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "id": "lightsabers:holocron_jedi"
+    },
+    "title": {
+      "translate": "advancement.lightsabers.light_mastery.title"
+    },
+    "description": {
+      "translate": "advancement.lightsabers.light_mastery.desc"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "met": {
+      "trigger": "lightsabers:game_event",
+      "conditions": {
+        "event": "light_mastery"
+      }
+    }
+  },
+  "parent": "lightsabers:force_sensitivity"
+}

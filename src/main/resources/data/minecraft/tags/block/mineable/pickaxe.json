@@ -1,0 +1,32 @@
+{
+  "values": [
+    "lightsabers:crystal_ore",
+    "lightsabers:lightsaber_forge",
+    "lightsabers:lightsaber_forge_dark",
+    "lightsabers:sith_sarcophagus",
+    "lightsabers:sith_stone_coffin",
+    "lightsabers:forcestone",
+    "lightsabers:dark_forcestone",
+    "lightsabers:light_forcestone",
+    "lightsabers:forcestone_cracked",
+    "lightsabers:dark_forcestone_cracked",
+    "lightsabers:light_forcestone_cracked",
+    "lightsabers:forcestone_mossy",
+    "lightsabers:dark_forcestone_mossy",
+    "lightsabers:light_forcestone_mossy",
+    "lightsabers:forcestone_inscribed",
+    "lightsabers:dark_forcestone_inscribed",
+    "lightsabers:light_forcestone_inscribed",
+    "lightsabers:forcestone_pillar",
+    "lightsabers:dark_forcestone_pillar",
+    "lightsabers:light_forcestone_pillar",
+    "lightsabers:dark_activated_forcestone_pillar",
+    "lightsabers:light_activated_forcestone_pillar",
+    "lightsabers:forcestone_stairs",
+    "lightsabers:dark_forcestone_stairs",
+    "lightsabers:light_forcestone_stairs",
+    "lightsabers:forcestone_slab",
+    "lightsabers:dark_forcestone_slab",
+    "lightsabers:light_forcestone_slab"
+  ]
+}

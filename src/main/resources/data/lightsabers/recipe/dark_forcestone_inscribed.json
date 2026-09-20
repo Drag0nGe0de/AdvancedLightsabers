@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "S",
+    "S"
+  ],
+  "key": {
+    "S": {
+      "item": "lightsabers:dark_forcestone_slab"
+    }
+  },
+  "result": {
+    "id": "lightsabers:dark_forcestone_inscribed",
+    "count": 1
+  }
+}

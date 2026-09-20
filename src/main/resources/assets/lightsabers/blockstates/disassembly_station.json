@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "lightsabers:block/empty" },
+    "facing=south": { "model": "lightsabers:block/empty" },
+    "facing=east":  { "model": "lightsabers:block/empty" },
+    "facing=west":  { "model": "lightsabers:block/empty" }
+  }
+}

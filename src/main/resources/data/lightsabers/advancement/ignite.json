@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "id": "lightsabers:lightsaber"
+    },
+    "title": {
+      "translate": "advancement.lightsabers.ignite.title"
+    },
+    "description": {
+      "translate": "advancement.lightsabers.ignite.desc"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "met": {
+      "trigger": "lightsabers:game_event",
+      "conditions": {
+        "event": "ignite_saber"
+      }
+    }
+  },
+  "parent": "lightsabers:root"
+}

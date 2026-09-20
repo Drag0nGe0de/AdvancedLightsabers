@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "id": "lightsabers:lightsaber"
+    },
+    "title": {
+      "translate": "advancement.lightsabers.throw.title"
+    },
+    "description": {
+      "translate": "advancement.lightsabers.throw.desc"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "met": {
+      "trigger": "lightsabers:game_event",
+      "conditions": {
+        "event": "saber_throw"
+      }
+    }
+  },
+  "parent": "lightsabers:force_sensitivity"
+}

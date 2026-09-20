@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "RRR",
+    "BCB",
+    "IAI"
+  ],
+  "key": {
+    "R": {
+      "item": "minecraft:redstone"
+    },
+    "B": {
+      "item": "minecraft:blaze_rod"
+    },
+    "C": {
+      "item": "lightsabers:lightsaber_circuitry"
+    },
+    "I": {
+      "item": "minecraft:iron_block"
+    },
+    "A": {
+      "item": "minecraft:anvil"
+    }
+  },
+  "result": {
+    "id": "lightsabers:disassembly_station",
+    "count": 1
+  }
+}

@@ -1,0 +1,39 @@
+# Gradle
+.gradle/
+build/
+out/
+classes/
+
+# IDEs
+.idea/
+*.iml
+.vscode/
+.settings/
+.classpath
+.project
+bin/
+
+# Fabric / Minecraft run directories
+run/
+run-client/
+run-server/
+
+# Misc
+*.log
+*.launch
+/config/
+/crash-reports/
+/data/
+/downloads/
+/logs/
+/screenshots/
+/options.txt
+/servers.dat
+/servers.dat_old
+/usercache.json
+/.fabric/
+/.mixin.out/
+/eula.txt
+/debug/
+console.in
+.DS_Store

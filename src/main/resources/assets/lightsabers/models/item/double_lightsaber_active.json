@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "lightsabers:item/double_saber_hilt_small",
+    "layer1": "lightsabers:item/blade_double"
+  }
+}

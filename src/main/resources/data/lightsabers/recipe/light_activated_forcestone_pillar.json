@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "lightsabers:light_forcestone_pillar"
+    },
+    {
+      "item": "minecraft:redstone"
+    }
+  ],
+  "result": {
+    "id": "lightsabers:light_activated_forcestone_pillar",
+    "count": 1
+  }
+}

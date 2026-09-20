@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "OOO",
+    "OBO",
+    "OKO"
+  ],
+  "key": {
+    "O": {
+      "item": "minecraft:obsidian"
+    },
+    "B": {
+      "item": "minecraft:book"
+    },
+    "K": {
+      "item": "lightsabers:kyber_crystal"
+    }
+  },
+  "result": {
+    "id": "lightsabers:holocron_sith",
+    "count": 1
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "display": {
+    "icon": {
+      "id": "lightsabers:lightsaber"
+    },
+    "title": {
+      "translate": "advancement.lightsabers.root.title"
+    },
+    "description": {
+      "translate": "advancement.lightsabers.root.desc"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "has_saber": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "lightsabers:lightsaber",
+              "lightsabers:double_lightsaber"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

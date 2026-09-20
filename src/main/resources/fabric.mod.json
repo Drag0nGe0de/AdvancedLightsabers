@@ -1,0 +1,40 @@
+{
+  "schemaVersion": 1,
+  "id": "lightsabers",
+  "version": "${version}",
+  "name": "Advanced Lightsabers",
+  "description": "Lightsabers with 16 hilt styles, 18 kyber crystal colors, saber forging, crystal ore and Force powers. A Fabric port of FiskFille's original Forge 1.7.10 mod.",
+  "authors": [
+    "DragonGeode"
+  ],
+  "contact": {
+    "homepage": "https://github.com/Drag0nGe0de/AdvancedLightsabers",
+    "sources": "https://github.com/Drag0nGe0de/AdvancedLightsabers"
+  },
+  "license": "LGPL-3.0",
+  "icon": "assets/lightsabers/icon.png",
+  "environment": "*",
+  "mixins": [
+    "lightsabers.mixins.json"
+  ],
+  "entrypoints": {
+    "main": [
+      "com.drag0nge0de.lightsabers.AL"
+    ],
+    "client": [
+      "com.drag0nge0de.lightsabers.ALClient"
+    ],
+    "modmenu": [
+      "com.drag0nge0de.lightsabers.client.compat.ModMenuCompat"
+    ]
+  },
+  "suggests": {
+    "modmenu": "*"
+  },
+  "depends": {
+    "fabricloader": ">=0.16.0",
+    "minecraft": "~1.21.1",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}

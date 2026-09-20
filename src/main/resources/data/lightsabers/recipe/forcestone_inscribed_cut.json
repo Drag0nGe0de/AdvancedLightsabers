@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "lightsabers:forcestone"
+  },
+  "result": {
+    "id": "lightsabers:forcestone_inscribed",
+    "count": 1
+  }
+}

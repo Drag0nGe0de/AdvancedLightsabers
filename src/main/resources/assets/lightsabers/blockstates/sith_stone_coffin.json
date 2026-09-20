@@ -1,0 +1,20 @@
+{
+  "variants": {
+    "facing=north,open=false,top=false": { "model": "lightsabers:block/empty" },
+    "facing=south,open=false,top=false": { "model": "lightsabers:block/empty" },
+    "facing=west,open=false,top=false": { "model": "lightsabers:block/empty" },
+    "facing=east,open=false,top=false": { "model": "lightsabers:block/empty" },
+    "facing=north,open=true,top=false": { "model": "lightsabers:block/empty" },
+    "facing=south,open=true,top=false": { "model": "lightsabers:block/empty" },
+    "facing=west,open=true,top=false": { "model": "lightsabers:block/empty" },
+    "facing=east,open=true,top=false": { "model": "lightsabers:block/empty" },
+    "facing=north,open=false,top=true": { "model": "lightsabers:block/empty" },
+    "facing=south,open=false,top=true": { "model": "lightsabers:block/empty" },
+    "facing=west,open=false,top=true": { "model": "lightsabers:block/empty" },
+    "facing=east,open=false,top=true": { "model": "lightsabers:block/empty" },
+    "facing=north,open=true,top=true": { "model": "lightsabers:block/empty" },
+    "facing=south,open=true,top=true": { "model": "lightsabers:block/empty" },
+    "facing=west,open=true,top=true": { "model": "lightsabers:block/empty" },
+    "facing=east,open=true,top=true": { "model": "lightsabers:block/empty" }
+  }
+}

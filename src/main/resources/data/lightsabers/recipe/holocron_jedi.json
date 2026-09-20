@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "GGG",
+    "GBG",
+    "GKG"
+  ],
+  "key": {
+    "G": {
+      "item": "minecraft:gold_ingot"
+    },
+    "B": {
+      "item": "minecraft:book"
+    },
+    "K": {
+      "item": "lightsabers:kyber_crystal"
+    }
+  },
+  "result": {
+    "id": "lightsabers:holocron_jedi",
+    "count": 1
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "DDD",
+    "DSD"
+  ],
+  "key": {
+    "D": {
+      "item": "lightsabers:dark_forcestone"
+    },
+    "S": {
+      "item": "lightsabers:dark_forcestone_slab"
+    }
+  },
+  "result": {
+    "id": "lightsabers:sith_sarcophagus",
+    "count": 1
+  }
+}

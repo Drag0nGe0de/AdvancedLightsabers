@@ -1,0 +1,25 @@
+{
+  "variants": {
+    "attachment=0": {
+      "model": "lightsabers:block/crystal_ore"
+    },
+    "attachment=1": {
+      "model": "lightsabers:block/crystal_ore"
+    },
+    "attachment=2": {
+      "model": "lightsabers:block/crystal_ore"
+    },
+    "attachment=3": {
+      "model": "lightsabers:block/crystal_ore"
+    },
+    "attachment=4": {
+      "model": "lightsabers:block/crystal_ore"
+    },
+    "attachment=5": {
+      "model": "lightsabers:block/crystal_ore"
+    },
+    "attachment=6": {
+      "model": "lightsabers:block/crystal_ore"
+    }
+  }
+}

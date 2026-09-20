@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "DDD",
+    "DSD"
+  ],
+  "key": {
+    "D": {"item": "lightsabers:dark_forcestone_cracked"},
+    "S": {"item": "lightsabers:dark_forcestone_slab"}
+  },
+  "result": {
+    "id": "lightsabers:sith_stone_coffin",
+    "count": 1
+  }
+}

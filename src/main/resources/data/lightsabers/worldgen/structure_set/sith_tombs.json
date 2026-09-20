@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "lightsabers:sith_tomb",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 519934221,
+    "spacing": 32,
+    "separation": 8
+  }
+}

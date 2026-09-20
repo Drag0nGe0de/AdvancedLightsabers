@@ -1,0 +1,203 @@
+{
+  "type": "minecraft:chest",
+  "pools": [
+    {
+      "rolls": {
+        "type": "minecraft:uniform",
+        "min": 3,
+        "max": 7
+      },
+      "bonus_rolls": 0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:bone",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:uniform",
+                "min": 4,
+                "max": 6
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:rotten_flesh",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:uniform",
+                "min": 3,
+                "max": 7
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:iron_ingot",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:uniform",
+                "min": 2,
+                "max": 7
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "lightsabers:lightsaber_circuitry",
+          "weight": 20
+        },
+        {
+          "type": "minecraft:item",
+          "name": "lightsabers:lightsaber_blade_emitter",
+          "weight": 10,
+          "functions": [
+            {
+              "function": "lightsabers:random_part",
+              "part": "blade_emitter"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "lightsabers:lightsaber_blade_emitter",
+          "weight": 10,
+          "functions": [
+            {
+              "function": "lightsabers:random_part",
+              "part": "blade_emitter"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "lightsabers:lightsaber_blade_emitter",
+          "weight": 10,
+          "functions": [
+            {
+              "function": "lightsabers:random_part",
+              "part": "blade_emitter"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "lightsabers:kyber_crystal",
+          "weight": 3,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "lightsabers:crystal": {
+                  "color": 16711935
+                }
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "lightsabers:kyber_crystal",
+          "weight": 3,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "lightsabers:crystal": {
+                  "color": 16748474
+                }
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "lightsabers:kyber_crystal",
+          "weight": 3,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "lightsabers:crystal": {
+                  "color": 16711680
+                }
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "lightsabers:kyber_crystal",
+          "weight": 3,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "lightsabers:crystal": {
+                  "color": 16744448
+                }
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "lightsabers:kyber_crystal",
+          "weight": 6,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "lightsabers:crystal": {
+                  "color": 6095103
+                }
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "lightsabers:kyber_crystal",
+          "weight": 6,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "lightsabers:crystal": {
+                  "color": 11337901
+                }
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "lightsabers:kyber_crystal",
+          "weight": 6,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "lightsabers:crystal": {
+                  "color": 65535
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

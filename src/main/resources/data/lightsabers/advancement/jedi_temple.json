@@ -1,0 +1,36 @@
+{
+  "display": {
+    "icon": {
+      "id": "lightsabers:light_forcestone"
+    },
+    "title": {
+      "translate": "advancement.lightsabers.temple.title"
+    },
+    "description": {
+      "translate": "advancement.lightsabers.temple.desc"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "met": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "location": {
+                "structures": "lightsabers:jedi_temple"
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  "parent": "lightsabers:ignite"
+}

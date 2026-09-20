@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "HHH",
+    "HCH",
+    "HHH"
+  ],
+  "key": {
+    "H": {
+      "item": "minecraft:terracotta"
+    },
+    "C": {
+      "item": "lightsabers:crystal_ore"
+    }
+  },
+  "result": {
+    "id": "lightsabers:dark_forcestone",
+    "count": 4
+  }
+}

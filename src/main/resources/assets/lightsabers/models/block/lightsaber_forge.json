@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "north": "lightsabers:block/lightsaber_forge_front",
+    "south": "lightsabers:block/lightsaber_forge_side",
+    "east": "lightsabers:block/lightsaber_forge_side",
+    "west": "lightsabers:block/lightsaber_forge_side",
+    "up": "lightsabers:block/lightsaber_forge_top",
+    "down": "lightsabers:block/lightsaber_forge_top",
+    "particle": "lightsabers:block/lightsaber_forge_side"
+  }
+}

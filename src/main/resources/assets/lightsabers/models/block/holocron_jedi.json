@@ -1,0 +1,13 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "all": "lightsabers:block/jedi_holocron_corner",
+    "north": "lightsabers:block/jedi_holocron_side",
+    "east": "lightsabers:block/jedi_holocron_corner_side",
+    "south": "lightsabers:block/jedi_holocron_side",
+    "west": "lightsabers:block/jedi_holocron_corner_side",
+    "up": "lightsabers:block/jedi_holocron_side",
+    "down": "lightsabers:block/jedi_holocron_corner_bottom",
+    "particle": "lightsabers:block/jedi_holocron_side"
+  }
+}

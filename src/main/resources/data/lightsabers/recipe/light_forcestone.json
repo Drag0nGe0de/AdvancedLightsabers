@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "SSS",
+    "SCS",
+    "SSS"
+  ],
+  "key": {
+    "S": {
+      "item": "minecraft:smooth_sandstone"
+    },
+    "C": {
+      "item": "lightsabers:crystal_ore"
+    }
+  },
+  "result": {
+    "id": "lightsabers:light_forcestone",
+    "count": 4
+  }
+}

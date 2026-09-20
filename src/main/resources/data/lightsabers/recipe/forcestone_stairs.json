@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "P  ",
+    "PP ",
+    "PPP"
+  ],
+  "key": {
+    "P": {
+      "item": "lightsabers:forcestone"
+    }
+  },
+  "result": {
+    "id": "lightsabers:forcestone_stairs",
+    "count": 4
+  }
+}

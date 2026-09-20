@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "lightsabers:lightsaber_forge_dark"
+        }
+      ],
+      "conditions": [
+        {
+          "condition": "minecraft:block_state_property",
+          "block": "lightsabers:lightsaber_forge_dark",
+          "properties": {
+            "panel": "false"
+          }
+        },
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ]
+    }
+  ]
+}

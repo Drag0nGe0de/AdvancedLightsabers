@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "lightsabers:light_forcestone"
+  },
+  "result": {
+    "id": "lightsabers:light_forcestone_slab",
+    "count": 2
+  }
+}

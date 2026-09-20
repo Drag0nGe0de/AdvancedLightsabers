@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "pattern": [
+    "IDI",
+    "BDS",
+    "TDR"
+  ],
+  "key": {
+    "I": {
+      "item": "minecraft:iron_ingot"
+    },
+    "D": {
+      "item": "minecraft:diamond"
+    },
+    "B": {
+      "item": "minecraft:iron_block"
+    },
+    "S": {
+      "item": "minecraft:stone_button"
+    },
+    "T": {
+      "item": "minecraft:redstone_torch"
+    },
+    "R": {
+      "item": "minecraft:redstone"
+    }
+  },
+  "result": {
+    "id": "lightsabers:lightsaber_circuitry",
+    "count": 1
+  }
+}

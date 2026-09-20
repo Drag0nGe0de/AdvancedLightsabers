@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "lightsabers:block/dark_activated_forcestone_pillar_top",
+    "side": "lightsabers:block/dark_activated_forcestone_pillar"
+  }
+}
